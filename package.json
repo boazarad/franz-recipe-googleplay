@@ -1,0 +1,13 @@
+{
+  "id": "playmusic",
+  "name": "Google Play Music",
+  "version": "0.1",
+  "description": "Google Play Music",
+  "main": "index.js",
+  "author": "Boaz Arad",
+  "license": "MIT",
+  "repository": "https://github.com/boazarad/franz-recipe-googleplay",
+  "config": {
+    "serviceURL": "https://play.google.com/music/"
+  }
+}
